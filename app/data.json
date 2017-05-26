@@ -1,0 +1,57 @@
+[{
+	"date" :"Mon 01",
+	"metric" : 1174.11
+},
+{
+	"date" :"Tue 02",
+	"metric" : 1402.36
+},
+{
+	"date" :"Wed 03",
+	"metric" : 1475.71
+},
+{
+	"date" :"Thu 04",
+	"metric" : 1190.43
+},
+{
+	"date" :"Fri 05",
+	"metric" : 1282.68
+},
+{
+	"date" :"Sat 06",
+	"metric" : 1560.03
+},
+{
+	"date" :"Sun 07",
+	"metric" : 1796.50
+},
+{
+	"date" :"Mon 08",
+	"metric" : 1690.77
+},
+{
+	"date" :"Tue 09",
+	"metric" : 2015.98
+},
+{
+	"date" :"Wed 10",
+	"metric" :  1647.89
+},
+{
+	"date" :"Thu 11",
+	"metric" :  1859.85
+},
+{
+	"date" :"Fri 12",
+	"metric" :  1415.84
+},
+{
+	"date" :"Sat 13",
+	"metric" :  1524.84
+},
+{
+	"date" :"Sun 14",
+	"metric" : 1181.13
+}
+]
